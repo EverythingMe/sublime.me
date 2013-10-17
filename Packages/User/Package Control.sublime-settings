@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"DocBlockr",
 		"Emmet",
 		"Git",
 		"GitGutter",
