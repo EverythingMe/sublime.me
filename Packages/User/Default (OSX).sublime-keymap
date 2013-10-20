@@ -1,0 +1,19 @@
+[
+  // swap the keybindings for paste and paste_and_indent
+  {
+    "keys": ["super+v"],
+    "command": "paste_and_indent"
+  }, {
+    "keys": ["super+shift+v"],
+    "command": "paste"
+  },
+
+  // restore default key bindings that were overridden by packages
+  {
+    "keys": ["super+shift+r"],
+    "command": "goto_symbol_in_project"
+  }, {
+    "keys": ["super+alt+down"],
+    "command": "goto_definition"
+  }
+]
