@@ -15,5 +15,14 @@
   }, {
     "keys": ["super+alt+down"],
     "command": "goto_definition"
+  },
+
+  // Macros
+  {
+    "keys": ["super+shift+enter"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/Macros/semicolon_newline.sublime-macro"
+    }
   }
 ]
