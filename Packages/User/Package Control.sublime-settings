@@ -6,6 +6,7 @@
 		"Git",
 		"GitGutter",
 		"Local History",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"sublime-github"
 	]
 }
