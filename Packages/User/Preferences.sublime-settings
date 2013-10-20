@@ -1,6 +1,12 @@
 {
-	"ignored_packages":
-	[
-		"Vintage"
-	]
+	"auto_find_in_selection": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"find_selected_text": true,
+	"font_size": 15,
+	"highlight_modified_tabs": true,
+	"rulers": [80],
+	"save_on_focus_lost": true,
+	"show_full_path": true,
+	"show_panel_on_build": false,
+	"translate_tabs_to_spaces": true
 }
