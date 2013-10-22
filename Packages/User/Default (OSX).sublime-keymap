@@ -24,5 +24,23 @@
     "args": {
       "file": "Packages/User/Macros/semicolon_newline.sublime-macro"
     }
+  },
+
+  // Building
+  {
+    "keys": ["super+b"],
+    "command": "build"
+  }, {
+    "keys": ["super+shift+b"],
+    "command": "build",
+    "args": {
+      "variant": "clean"
+    }
+  }, {
+    "keys": ["super+alt+b"],
+    "command": "build",
+    "args": {
+      "variant": "alt_build"
+    }
   }
 ]
