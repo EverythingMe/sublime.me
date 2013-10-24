@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"DocBlockr",
 		"Emmet",
 		"Git",
