@@ -1,4 +1,4 @@
-#Sublime.js
+#Sublime.me
 
 ##Installation
 Clone this repo as your data folder for Sublime Text located in:
