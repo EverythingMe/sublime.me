@@ -25,6 +25,7 @@ Clone this repo as your data folder for Sublime Text located in:
 * `cmd`+`shift`+`return` to insert a semicolon at the end of current line
 * `clog = > console.log`
 * `de => debugger`
+* `jsonfy => JSON.stringify(${1})`
 
 
 ##### More
