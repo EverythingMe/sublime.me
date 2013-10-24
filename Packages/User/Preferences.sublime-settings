@@ -4,7 +4,14 @@
 	"find_selected_text": true,
 	"font_size": 15,
 	"highlight_modified_tabs": true,
-	"rulers": [80],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
 	"save_on_focus_lost": true,
 	"show_full_path": true,
 	"show_panel_on_build": false,
