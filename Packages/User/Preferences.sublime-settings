@@ -10,18 +10,19 @@
 	[
 		"Vintage"
 	],
-	"rulers":
-	[
-		80
-	],
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
+	"rulers":
+	[
+		80
+	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"show_panel_on_build": false,
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
