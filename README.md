@@ -1,12 +1,12 @@
-#Sublime.me
+# Sublime.me
 
-##Installation
+## Installation
 Clone this repo as your data folder for Sublime Text located in:
 * OS X: ~/Library/Application Support/Sublime Text 3
 * Linux: ~/.config/sublime-text-3
 
 
-##What's Included
+## What's Included
 
 ##### Javascript ready
 * boost your productivity with [sublime-emmet](https://github.com/sergeche/emmet-sublime)
@@ -20,7 +20,7 @@ Clone this repo as your data folder for Sublime Text located in:
 * GitHub support via [sublime-github](https://github.com/bgreenlee/sublime-github)
 
 
-#####Keybindings, Snippets and Macros (OSX only)
+##### Keybindings, Snippets and Macros (OSX only)
 * paste and indent by default
 * `cmd`+`shift`+`return` to insert a semicolon at the end of current line
 * `clog = > console.log`
@@ -31,3 +31,4 @@ Clone this repo as your data folder for Sublime Text located in:
 ##### More
 * Empower your sidebar with [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)
 * never loose code again! with [local-history](https://github.com/vishr/local-history)
+* easily create new files with [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
