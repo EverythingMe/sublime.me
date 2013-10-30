@@ -19,7 +19,7 @@
 
   // Macros
   {
-    "keys": ["super+shift+enter"],
+    "keys": ["super+shift+;"],
     "command": "run_macro_file",
     "args": {
       "file": "Packages/User/Macros/semicolon_newline.sublime-macro"
