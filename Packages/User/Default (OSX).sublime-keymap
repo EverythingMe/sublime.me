@@ -6,6 +6,9 @@
   }, {
     "keys": ["super+shift+v"],
     "command": "paste"
+  }, {
+    "keys": ["super+shift+backspace"],
+    "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"}
   },
 
   // restore default key bindings that were overridden by packages
