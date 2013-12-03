@@ -22,6 +22,7 @@ Clone this repo as your data folder for Sublime Text located in:
 
 ##### Keybindings, Snippets and Macros (OSX only)
 * paste and indent by default
+* `cmd`+`shift`+`backspace` to delete the current line
 * `cmd`+`shift`+`;` to insert a semicolon at the end of current line
 * `clog = > console.log`
 * `de => debugger`
