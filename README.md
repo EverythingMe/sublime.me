@@ -33,3 +33,4 @@ Clone this repo as your data folder for Sublime Text located in:
 * never loose code again! with [local-history](https://github.com/vishr/local-history)
 * easily create new files with [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
 * See location of file in focus in the sidebar with [SyncedSidebar] (https://github.com/sobstel/SyncedSideBar)
+* fast color picker with [ColorPicker](https://github.com/weslly/ColorPicker/)
