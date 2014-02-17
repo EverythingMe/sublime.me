@@ -33,7 +33,6 @@ Clone this repo as your data folder for Sublime Text located in:
 * Empower your sidebar with [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)
 * never loose code again! with [local-history](https://github.com/vishr/local-history)
 * easily create new files with [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
-* See location of file in focus in the sidebar with [SyncedSidebar](https://github.com/sobstel/SyncedSideBar)
 * fast color picker with [ColorPicker](https://github.com/weslly/ColorPicker/)
 * [Dotfiles Syntax Highlighting](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2)
 * A Sublime Text plugin that filters lines containing a string or matching a regular expression [FilterLines](https://github.com/davidpeckham/FilterLines)
