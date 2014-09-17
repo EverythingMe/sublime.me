@@ -38,3 +38,4 @@ Clone this repo as your data folder for Sublime Text located in:
 * A Sublime Text plugin that filters lines containing a string or matching a regular expression [FilterLines](https://github.com/davidpeckham/FilterLines)
 * [Markdown preview](https://github.com/revolunet/sublimetext-markdown-preview)
 * inline calculations with [Super Calculator](https://github.com/Pephers/Super-Calculator)
+* [Robot Framework Assistant](https://github.com/andriyko/sublime-robot-framework-assistant)
