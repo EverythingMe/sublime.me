@@ -39,3 +39,4 @@ Clone this repo as your data folder for Sublime Text located in:
 * [Markdown preview](https://github.com/revolunet/sublimetext-markdown-preview)
 * inline calculations with [Super Calculator](https://github.com/Pephers/Super-Calculator)
 * [Robot Framework Assistant](https://github.com/andriyko/sublime-robot-framework-assistant)
+* [LiveStyle](http://livestyle.emmet.io/install/)
