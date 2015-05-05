@@ -30,13 +30,10 @@ Clone this repo as your data folder for Sublime Text located in:
 
 
 ##### More
+* [Package Control](https://packagecontrol.io/installation)
 * Empower your sidebar with [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)
 * never loose code again! with [local-history](https://github.com/vishr/local-history)
 * easily create new files with [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
 * fast color picker with [ColorPicker](https://github.com/weslly/ColorPicker/)
 * [Dotfiles Syntax Highlighting](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2)
-* A Sublime Text plugin that filters lines containing a string or matching a regular expression [FilterLines](https://github.com/davidpeckham/FilterLines)
-* [Markdown preview](https://github.com/revolunet/sublimetext-markdown-preview)
-* inline calculations with [Super Calculator](https://github.com/Pephers/Super-Calculator)
-* [Robot Framework Assistant](https://github.com/andriyko/sublime-robot-framework-assistant)
 * [LiveStyle](http://livestyle.emmet.io/install/)
