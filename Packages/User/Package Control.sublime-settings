@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -14,6 +17,7 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"sublime-github",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Theme - Sodarized"
 	]
 }

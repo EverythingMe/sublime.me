@@ -1,8 +1,10 @@
 {
 	"auto_find_in_selection": true,
 	"caret_style": "phase",
+	"color_scheme": "Packages/User/Solarized (dark).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
+	"font_face": "Inconsolata",
 	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -24,7 +26,7 @@
 	"show_full_path": true,
 	"show_panel_on_build": false,
 	"tab_size": 2,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Sodarized Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
