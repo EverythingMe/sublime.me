@@ -1,23 +1,31 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Autoprefixer",
 		"ColorPicker",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
 		"Emmet",
+		"Gist",
 		"Git",
 		"GitGutter",
+		"Indent XML",
 		"JsFormat",
+		"JSHint Gutter",
 		"LiveStyle",
-		"Local History",
 		"Package Control",
+		"Seti_UI",
 		"SideBarEnhancements",
 		"sublime-github",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Theme - Soda",
-		"Theme - Sodarized"
+		"Theme - Sodarized",
+		"Themr"
 	]
 }
