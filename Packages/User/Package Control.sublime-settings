@@ -7,6 +7,8 @@
 	[
 		"AdvancedNewFile",
 		"Autoprefixer",
+		"Babel",
+		"Better CoffeeScript",
 		"ColorPicker",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
@@ -20,6 +22,7 @@
 		"LiveStyle",
 		"Material Theme",
 		"Package Control",
+		"SCSS",
 		"SideBarEnhancements",
 		"sublime-github",
 		"SublimeLinter",
