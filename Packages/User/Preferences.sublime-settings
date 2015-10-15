@@ -7,7 +7,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-	"draw_white_space": "all",
+	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"font_face": "Inconsolata",
