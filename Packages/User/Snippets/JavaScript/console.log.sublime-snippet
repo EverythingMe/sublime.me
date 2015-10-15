@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-console.log('evme', ${1});
+console.log('${1}', ${2});
 ]]></content>
 	<tabTrigger>clog</tabTrigger>
 </snippet>
